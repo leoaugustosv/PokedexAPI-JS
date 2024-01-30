@@ -1,8 +1,11 @@
 
 class Pokemon {
-    number;
     name;
+    dexnumber;
+    id;
     type;
     types = [];
-    photo;
+    height;
+    sprite;
+    version;
 }
